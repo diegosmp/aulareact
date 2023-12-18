@@ -1,0 +1,9 @@
+.error{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.error img {
+    width: 40%;
+}
