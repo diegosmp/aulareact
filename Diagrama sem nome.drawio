@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-12-27T10:57:07.179Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="22.1.12" etag="1UEszpzlDpLnw601AhYY" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-27T10:59:51.888Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="ov0hCaBvwMMBmswjTrTH" version="22.1.12" type="github">
   <diagram name="Página-1" id="JJkjTEqICG2rsDb8bzh6">
-    <mxGraphModel>
+    <mxGraphModel dx="575" dy="496" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="HD5YnAg8ATrwrJbY9N6s-1" value="Paciente" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="40" y="40" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HD5YnAg8ATrwrJbY9N6s-2" value="Dentista" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="HD5YnAg8ATrwrJbY9N6s-3" value="Recepcionista" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="280" y="40" width="40" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
